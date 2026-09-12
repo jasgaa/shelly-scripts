@@ -1,0 +1,11 @@
+[
+  {
+    "fname": "off-delay/switch-off-delay.shelly.js",
+    "title": "Switch off delay",
+    "description": "Adds configurable off delay for switch with override possibility.",
+    "tags": [
+      "input",
+      "automation"
+    ]
+  }
+]
